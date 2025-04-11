@@ -1,2 +1,2 @@
-This is file1.txt
+Changed in GitHub
 New line in file1.txt
